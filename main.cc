@@ -3,6 +3,8 @@
  * c++ implementation
  * https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
  * 学一门语言语法的最好方法是写一个 parser
+ *
+ * Build: clang++ main.cc --std=c++20
  */
 
 #include <assert.h>
