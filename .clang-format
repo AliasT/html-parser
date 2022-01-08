@@ -1,0 +1,10 @@
+---
+IndentWidth: 4
+BasedOnStyle: webkit
+TabWidth: 4
+ColumnLimit: 200
+AllowShortIfStatementsOnASingleLine: true
+AllowShortBlocksOnASingleLine: Always
+AllowShortLoopsOnASingleLine: true
+---
+
